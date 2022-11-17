@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Слюсарев Никита ИСИП  20/1</string>
+    <string name="tab_text_1">Фиолетовый</string>
+    <string name="tab_text_2">Красный</string>
+    <string name="tab_text_3">Желтый</string>
+    <string name="tab_text_4">Я</string>
+    <string name="red">Красный</string>
+    <string name="me">Я</string>
+    <string name="yellow">Желтый</string>
+    <string name="purple">Фиолетовый</string>
+</resources>
